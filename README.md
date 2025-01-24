@@ -1,4 +1,7 @@
-# React + Vite
+#Chris Marinica's React Portfolio
+This project uses React to build a functioning Portoflio site.
+
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
